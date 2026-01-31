@@ -96,7 +96,7 @@ To start developing for Dome:
 2. Explore the example card starter repositories here on GitHub
 
 3. Build a small, single-purpose card
-   - Go to the "Dome Developer" dome, create a new card
+   - Go to the "Dome Developer" dome → "Cards" → create a new card
    - Clone, build and deploy from one of the card starter repos
   
 4. Add the newly creatd card to a dome and see it come alive across Android, iPhone and web!
