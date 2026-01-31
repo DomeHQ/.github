@@ -119,7 +119,7 @@ If you:
 
 …you’re very welcome here.
 
-Issues, discussions, ideas, and PRs are encouraged.
+Issues, discussions, ideas, and PRs are encouraged. Please join the Dome Developer community here: https://dome.so/developer .
 
 ---
 
