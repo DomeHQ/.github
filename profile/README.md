@@ -27,8 +27,7 @@ All in one place — without juggling multiple chat apps or fragmented tools.
 
 ## 🧠 Why Dome exists
 
-Most real-world initiatives don’t justify building a full app —  
-but chat apps alone aren’t enough either.
+Most real-world initiatives don’t justify building a full app —  but chat apps alone aren’t enough either.
 
 Dome sits in the middle:
 - **lighter than apps**
@@ -39,8 +38,6 @@ Dome sits in the middle:
 
 Each initiative gets its own dome.  
 Each dome stays focused on what it was created for.
-
-Built in India, for the world.
 
 ---
 
