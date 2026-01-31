@@ -95,7 +95,7 @@ To start developing for Dome:
    
 2. Explore the example card starter repositories here on GitHub
 
-3. Build a small, single-purpose card and see it come alive inside a dome
+3. Build a small, single-purpose card
    - Go to the "Dome Developer" dome, create a new card
    - Clone, build and deploy from one of the card starter repos
   
