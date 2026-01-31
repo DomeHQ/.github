@@ -59,6 +59,7 @@ Key ideas:
 - They feel native inside the Dome app
 - User context is securely passed by the platform
 - No separate login or auth flows needed
+- Same code runs across Android, iPhone and Web (PC / Mac)
 - Cards can work **offline**
 - One card can be used across **thousands of domes**
 
