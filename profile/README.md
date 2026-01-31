@@ -71,13 +71,10 @@ Think of it as:
 ## 📦 What lives in this GitHub org
 
 You’ll find:
-- SDKs for building Dome cards
-- Core platform components
-- Reference implementations
+- Reference card implementations for React and Angular
 - Tooling, docs, and experiments
-- Open discussions on architecture & APIs
 
-Some repos are early, some are production-ready — all are evolving.
+Some repos are early, some are production-ready — all are evolving. Make sure you join the Dome Developer community here: https://dome.so/developer .
 
 ---
 
